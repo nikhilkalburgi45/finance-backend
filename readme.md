@@ -6,6 +6,15 @@ The main goal of this project was to demonstrate backend design, API structuring
 
 ---
 
+## Featured On
+
+I posted about this project on Twitter — feel free to check it out!
+
+[![Twitter Thread](https://img.shields.io/badge/Twitter-See%20the%20thread-1DA1F2?style=flat&logo=twitter)](https://x.com/nikhil_kal1047)
+
+> Built and shared as part of my backend development internship assignment.
+> Follow along for more projects — [@nikhil_kal1047](https://x.com/nikhil_kal1047)
+
 ## Tech Stack
 
 - **Node.js + Express** — for building REST APIs
